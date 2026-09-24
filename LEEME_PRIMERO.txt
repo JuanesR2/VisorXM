@@ -1,0 +1,77 @@
+VISORXM 1.0 - INICIO RAPIDO
+===========================
+
+1. Descomprima TODO el archivo ZIP.
+2. Abra la carpeta VisorXM_1_0.
+3. Haga doble clic en: VisorXM.bat
+4. En la primera ejecucion, VisorXM configurara automaticamente Python (si hace falta),
+   creara su entorno virtual e instalara las dependencias.
+5. La aplicacion se abrira en el navegador.
+
+Para volver a usarla otro dia: solo ejecute VisorXM.bat nuevamente.
+
+IMPORTANTE:
+- El aplicativo necesita Internet.
+- No borre la carpeta .venv que se crea automaticamente, salvo que quiera reinstalar.
+- Si algo queda danado, use REINSTALAR_DEPENDENCIAS.bat.
+- El archivo VisorXM_instalacion.log se genera solo si se necesita diagnostico.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ____  _   _ _____ _____ _   _ _____ ____   ____ ___    _    
+       / __ \| | | | ____| ____| \ | | ____|  _ \ / ___|_ _|  / \   
+      | |  | | | | |  _| |  _| |  \| |  _| | |_) | |  _ | |  / _ \  
+      | |__| | |_| | |___| |___| |\  | |___|  _ <| |_| || | / ___ \ 
+       \___\_\\___/|_____|_____|_| \_|_____|_| \_\\____|___/_/   \_\
+
+                           @queenergia
+                  Ing. Juan E. Rodríguez Villada
+                         VisorXM · 2026
